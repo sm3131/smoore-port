@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {},
+    backgroundImage: {
+      'hero': "url('/public/images/sedona.png')",
+    }
   },
   plugins: [],
 }
